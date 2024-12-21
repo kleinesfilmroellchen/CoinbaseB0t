@@ -25,11 +25,11 @@ features = ["fancy-no-backtrace"]
 version = "7"
 
 [dependencies.shadow-rs]
-version = "0.36"
+version = "0.37"
 default-features = false
 
 [build-dependencies.shadow-rs]
-version = "0.36"
+version = "0.37"
 default-features = false
 
 [lints]
